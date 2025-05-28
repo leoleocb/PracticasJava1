@@ -1,5 +1,6 @@
 package app;
 import javax.persistence.*;
+
 import model.Usuario;
 
 public class Demo01 {
@@ -13,9 +14,9 @@ public class Demo01 {
 		
 		//instanciamos un nuevo usuario
 		Usuario usuario = new Usuario();
-		usuario.setNombres("David");
-		usuario.setApellidos("Malasquez");
-		usuario.setUsuario("Kol");
+		usuario.setNombres("leo");
+		usuario.setApellidos("coba");
+		usuario.setUsuario("leoleocb");
 		usuario.setPassword("12345");
 //		usuario.setIdTipo(2);
 //		usuario.setEstado(true);
