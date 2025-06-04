@@ -12,7 +12,7 @@
 					value="root" />
 			<property name="javax.persistence.jdbc.password"  
 					value="8590" />
-			<!-- Manejador Hibernate -->
+
 			<property name="hibernate.hbm2ddl.auto"  value="update" />
 			<property name="hibernate.dialect"  value="org.hibernate.dialect.MySQLDialect" />
 			<property name="hibernate.show_sql"  value="true" />
